@@ -3,8 +3,8 @@
 This project aims to classify MRI brain scans into different stages of Alzheimer's Disease using Convolutional Neural Networks (CNNs). 
 Multiple approaches were explored including custom CNNs, data augmentation, ResNet from scratch, and transfer learning with pretrained ResNet18.
 
-## Problem Statement0258
-Classify brain MRI scans into the following categories:
+## AIM
+Classifying brain MRI scans into the following categories:
 - **Non-Demented**
 - **Very Mild Demented**
 - **Mild Demented**
