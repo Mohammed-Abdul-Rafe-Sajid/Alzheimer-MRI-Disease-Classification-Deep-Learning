@@ -2,7 +2,7 @@
 
 This project aims to classify MRI brain scans into different stages of Alzheimer's Disease using Convolutional Neural Networks (CNNs). 
 Multiple approaches were explored including custom CNNs, data augmentation, ResNet from scratch, and transfer learning with pretrained ResNet18.
-### My project 9kaggle link: https://www.kaggle.com/code/abdulrafesajid/alzheimer-mri-disease-classification-97-accuracy
+### My project kaggle link: https://www.kaggle.com/code/abdulrafesajid/alzheimer-mri-disease-classification-97-accuracy
 
 ## AIM
 Classifying brain MRI scans into the following categories:
