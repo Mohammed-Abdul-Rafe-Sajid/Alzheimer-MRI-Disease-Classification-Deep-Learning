@@ -4,6 +4,7 @@ This project aims to classify MRI brain scans into different stages of Alzheimer
 Multiple approaches were explored including custom CNNs, data augmentation, ResNet from scratch, and transfer learning with pretrained ResNet18.
 ### My project kaggle link: https://www.kaggle.com/code/abdulrafesajid/alzheimer-mri-disease-classification-97-accuracy
 
+use this link to test - https://alzheimers-detection-using-mri-scan.streamlit.app/ 
 ## AIM
 Classifying brain MRI scans into the following categories:
 - **Non-Demented**
