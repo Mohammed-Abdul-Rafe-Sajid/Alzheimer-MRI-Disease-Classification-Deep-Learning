@@ -37,7 +37,7 @@ Classifying brain MRI scans into the following categories:
 ## 🔑 Key Takeaways
 
 - **Custom-designed CNN (SimpleCC1)** outperformed all other models.
-- **Transfer learning** did not yield better performance—likely due to mismatch between medical images and pretrained ImageNet features.
+- **Transfer learning** did not yield better performance, likely due to mismatch between medical images and pretrained ImageNet features.
 - Class imbalance and grayscale input compatibility are crucial factors in medical imaging tasks.
 
 ## 📬 Contact
