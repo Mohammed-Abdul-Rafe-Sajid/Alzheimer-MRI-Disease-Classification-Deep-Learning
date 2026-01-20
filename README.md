@@ -42,5 +42,5 @@ Classifying brain MRI scans into the following categories:
 
 ## 📬 Contact
 ### Mohammed Abdul Rafe Sajid
-email: abdulrafesajid@gmail.com
+Email: abdulrafesajid@gmail.com
 linkedln: https://www.linkedin.com/in/mohammed-abdul-rafe-sajid-49a716291/
